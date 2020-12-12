@@ -1,0 +1,1 @@
+export 'package:flutter_mvvm_di/Data/NewsData/NewsData.dart';
